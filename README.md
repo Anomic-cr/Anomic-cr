@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [currently not writing](currently not writing)
 
-- 💬 Ask me about **Python, C, Data visualisation or anything that you might want to**
+- 💬 Ask me about **Python, C, Data visualisation, numpy,mathematical optimization or anything that you might want to**
 
 - 📫 How to reach me **anomic@onionmail.org**
 
