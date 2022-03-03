@@ -7,13 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anomic-cr](https://github.com/Anomic-cr)
 
-- 📝 I regularly write articles on [currently not writing](currently not writing)
+- 📝 I regularly write articles on [currently not writing]
 
 - 💬 Ask me about **Python, C, Data visualisation, numpy,mathematical optimization or anything that you might want to**
 
 - 📫 How to reach me **anomic@onionmail.org**
-
-- 📄 Know about my experiences [will add someday](will add someday)
 
 - ⚡ Fun fact **I’m a social vegan. I avoid meet.**
 
