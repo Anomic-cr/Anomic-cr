@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Data science, Data Visualization**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anomic-cr](https://github.com/Anomic-cr)
-
-- 📝 I regularly write articles on [currently not writing]
+- 👨‍💻 All of my projects are available at [my git repos](https://github.com/Anomic-cr)
 
 - 💬 Ask me about **Python, C, Data visualisation, numpy,mathematical optimization or anything that you might want to**
 
