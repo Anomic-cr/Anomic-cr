@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anoimc</h1>
 <h3 align="center">A guy making random things.</h3>
 
-<p align="left"> <a href="https://twitter.com/anomic_cr"
+<p align="left"> <a href="https://twitter.com/anomic_cr" p>
 
 - 🌱 I’m currently learning **Data science, Data Visualization**
 
